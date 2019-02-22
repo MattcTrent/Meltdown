@@ -1,0 +1,1072 @@
+﻿Log file open, 02/21/19 20:33:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meltdown
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298959
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.263s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: A:/Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.21-20.33.15:675][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.21-20.33.15:675][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.21-20.33.15:709][  0]LogHAL: Display: Platform has ~ 16 GB [17126055936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.21-20.33.15:709][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.21-20.33.15:709][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.21-20.33.15:709][  0]LogInit: Computer: KIYUMINIKURO
+[2019.02.21-20.33.15:709][  0]LogInit: User: MattDenny
+[2019.02.21-20.33.15:709][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.21-20.33.15:709][  0]LogInit: High frequency timer resolution =3.906252 MHz
+[2019.02.21-20.33.15:709][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.21-20.33.15:709][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.21-20.33.15:709][  0]LogMemory: Process Physical Memory: 102.25 MB used, 102.25 MB peak
+[2019.02.21-20.33.15:709][  0]LogMemory: Process Virtual Memory: 93.53 MB used, 93.53 MB peak
+[2019.02.21-20.33.15:709][  0]LogMemory: Physical Memory: 9909.18 MB used,  6423.50 MB free, 16332.68 MB total
+[2019.02.21-20.33.15:709][  0]LogMemory: Virtual Memory: 4648.54 MB used,  6423.50 MB free, 134217728.00 MB total
+[2019.02.21-20.33.15:746][  0]LogInit: Using OS detected language (en-GB).
+[2019.02.21-20.33.15:746][  0]LogInit: Using OS detected locale (en-GB).
+[2019.02.21-20.33.15:748][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.02.21-20.33.16:095][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2019.02.21-20.33.16:095][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.21-20.33.16:150][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.21-20.33.16:150][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.21-20.33.16:561][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.21-20.33.16:573][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.21-20.33.16:653][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.21-20.33.16:653][  0]LogD3D11RHI:       8088/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.21-20.33.16:656][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.21-20.33.16:656][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.21-20.33.16:656][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.21-20.33.16:668][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.21-20.33.16:668][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.21-20.33.16:671][  0]LogWindows: EnumDisplayDevices:
+[2019.02.21-20.33.16:671][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.02.21-20.33.16:671][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.02.21-20.33.16:672][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.21-20.33.16:672][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.21-20.33.16:672][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.21-20.33.16:672][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.21-20.33.16:672][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.02.21-20.33.16:672][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.02.21-20.33.16:673][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.02.21-20.33.16:722][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.21-20.33.16:764][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.21-20.33.16:881][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../3D Enigines/Meltdown/Intermediate/Shaders/WorkingDirectory/16532/).
+[2019.02.21-20.33.16:882][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt Denny/AppData/Local/Temp/UnrealShaderWorkingDir/906B936F4A43E304CF823CB994B81695/'.
+[2019.02.21-20.33.17:195][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.21-20.33.17:207][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.21-20.33.17:218][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.21-20.33.17:230][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.21-20.33.17:242][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.21-20.33.17:254][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.21-20.33.17:266][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.21-20.33.17:277][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.21-20.33.17:282][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:348][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.21-20.33.17:349][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.21-20.33.17:407][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.21-20.33.17:407][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.21-20.33.17:428][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.21-20.33.17:428][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.21-20.33.17:439][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.21-20.33.17:450][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.21-20.33.17:461][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.21-20.33.17:473][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.21-20.33.17:481][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.21-20.33.17:481][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.21-20.33.17:547][  0]LogXGEController: Cleaning working directory: C:/Users/Matt Denny/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.21-20.33.17:547][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.21-20.33.17:548][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.21-20.33.17:548][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.21-20.33.18:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.21-20.33.18:605][  0]LogDerivedDataCache: Loaded boot cache 0.29s 71MB C:/Users/Matt Denny/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.21-20.33.18:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt Denny/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.21-20.33.18:606][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../3D Enigines/Meltdown/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.21-20.33.18:606][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.21-20.33.18:606][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../3D Enigines/Meltdown/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.21-20.33.18:606][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.21-20.33.18:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.21-20.33.18:630][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt Denny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.21-20.33.18:630][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.21-20.33.18:630][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.21-20.33.18:645][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.21-20.33.18:651][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.21-20.33.18:669][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.21-20.33.19:022][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.02.21-20.33.19:289][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.21-20.33.19:493][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.21-20.33.19:496][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.21-20.33.19:496][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.21-20.33.19:496][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.21-20.33.19:496][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.21-20.33.19:573][  0]LogNetVersion: Meltdown 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3933618509)
+[2019.02.21-20.33.20:592][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.148549 seconds
+[2019.02.21-20.33.20:598][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.21-20.33.20:598][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.02.21-20.33.20:598][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.21-20.33.24:719][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.21-20.33.24:732][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.21-20.33.25:008][  0]SourceControl: Source control is disabled
+[2019.02.21-20.33.25:009][  0]SourceControl: Source control is disabled
+[2019.02.21-20.33.25:010][  0]SourceControl: Source control is disabled
+[2019.02.21-20.33.25:011][  0]SourceControl: Source control is disabled
+[2019.02.21-20.33.25:242][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.21-20.33.25:405][  0]LogOcInput: OculusInput pre-init called
+[2019.02.21-20.33.25:598][  0]LogEngine: Initializing Engine...
+[2019.02.21-20.33.25:626][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.21-20.33.25:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.21-20.33.25:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.21-20.33.25:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.21-20.33.25:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.21-20.33.25:812][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.21-20.33.25:824][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.21-20.33.25:895][  0]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-20.33.25:947][  0]LogInit: FAudioDevice initialized.
+[2019.02.21-20.33.25:947][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.21-20.33.26:140][  0]LogDerivedDataCache: Saved boot cache 0.19s 72MB C:/Users/Matt Denny/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.21-20.33.26:140][  0]LogInit: Texture streaming: Enabled
+[2019.02.21-20.33.26:248][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.21-20.33.26:263][  0]LogInit: Transaction tracking system initialized
+[2019.02.21-20.33.26:477][  0]BlueprintLog: New page: Editor Load
+[2019.02.21-20.33.27:022][  0]LocalizationService: Localization service is disabled
+[2019.02.21-20.33.28:139][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.21-20.33.28:139][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.21-20.33.28:139][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.21-20.33.28:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.21-20.33.28:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.21-20.33.28:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.21-20.33.28:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.21-20.33.28:853][  0]LogFileCache: Scanning file cache for directory 'A:/3D Enigines/Meltdown/Content/' took 0.02s
+[2019.02.21-20.33.28:903][  0]SourceControl: Source control is disabled
+[2019.02.21-20.33.28:904][  0]Cmd: MAP LOAD FILE="../../../../../3D Enigines/Meltdown/Content/Maps/Level_Persistant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.21-20.33.28:904][  0]LightingResults: New page: Lighting Build
+[2019.02.21-20.33.28:921][  0]MapCheck: New page: Map Check
+[2019.02.21-20.33.28:921][  0]LightingResults: New page: Lighting Build
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_OfficeSuitMergeMap (AutoDXT, 2048X2048)
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_OfficeSuitBaseColour (AutoDXT, 2048X2048)
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_OfficeSuitTieMask (AutoDXT, 2048X2048)
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_HairMergeMap (AutoDXT, 1024X1024)
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_HairNormal (BC5, 1024X1024)
+[2019.02.21-20.33.30:709][  0]LogTexture: Display: Building textures: T_OfficeSuitNormals (BC5, 2048X2048)
+[2019.02.21-20.33.30:709][  0]LogStaticMesh: Building static mesh SM_Wall_Block...
+[2019.02.21-20.33.30:779][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Art/Static_Meshes/Walls/SM_Wall_Block.SM_Wall_Block
+[2019.02.21-20.33.31:539][  0]LogTexture: Display: Building textures: T_HairBaseColour (AutoDXT, 1024X1024)
+[2019.02.21-20.33.31:539][  0]LogTexture: Display: Building textures: T_SkinNormal (BC5, 2048X2048)
+[2019.02.21-20.33.31:539][  0]LogTexture: Display: Building textures: T_SkinEyeColourMask (AutoDXT, 2048X2048)
+[2019.02.21-20.33.31:540][  0]LogTexture: Display: Building textures: T_SkinMergeMap (AutoDXT, 2048X2048)
+[2019.02.21-20.33.31:540][  0]LogTexture: Display: Building textures: T_SkinColourMask (AutoDXT, 2048X2048)
+[2019.02.21-20.33.31:540][  0]LogTexture: Display: Building textures: T_SkinBasecolour (AutoDXT, 2048X2048)
+[2019.02.21-20.33.31:540][  0]LogMaterial: Display: Missing cached shader map for material M_OfficeSuitMaster, compiling. 
+[2019.02.21-20.33.31:620][  0]LogTexture: Display: Building textures: T_HazmatSuitBaseNormals (BC5, 2048X2048)
+[2019.02.21-20.33.31:623][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.21-20.33.31:623][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.21-20.33.31:623][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.21-20.33.31:623][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.21-20.33.31:623][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.21-20.33.31:623][  0]LogMaterial: Display: Missing cached shader map for material M_HairMaster, compiling. 
+[2019.02.21-20.33.32:280][  0]LogTexture: Display: Building textures: T_HazmatSuitBaseMergeMaps (AutoDXT, 2048X2048)
+[2019.02.21-20.33.32:280][  0]LogTexture: Display: Building textures: T_HazmatSuitBaseColour (AutoDXT, 2048X2048)
+[2019.02.21-20.33.32:280][  0]LogMaterial: Display: Missing cached shader map for material M_BodyMaster, compiling. 
+[2019.02.21-20.33.32:322][  0]LogSkeletalMesh: Building Skeletal Mesh SM_NPC3...
+[2019.02.21-20.33.32:386][  0]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Art/Characters/NPCs/SM_NPC3.SM_NPC3
+[2019.02.21-20.33.32:387][  0]LogSkeletalMesh: Building Skeletal Mesh SM_NPC2...
+[2019.02.21-20.33.32:402][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Art/Characters/NPCs/SM_NPC2.SM_NPC2
+[2019.02.21-20.33.32:414][  0]LogSkeletalMesh: Building Skeletal Mesh SM_NPC1...
+[2019.02.21-20.33.32:463][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Art/Characters/NPCs/SM_NPC1.SM_NPC1
+[2019.02.21-20.33.32:712][  0]LogMaterial: Display: Missing cached shader map for material M_HazmatSuit, compiling. 
+[2019.02.21-20.33.32:753][  0]LogSkeletalMesh: Building Skeletal Mesh SM_MainCharacter...
+[2019.02.21-20.33.32:759][  0]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Art/Characters/Player/SM_MainCharacter.SM_MainCharacter
+[2019.02.21-20.33.33:041][  0]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-20.33.33:069][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Menu) is flushing async loading
+[2019.02.21-20.33.33:070][  0]LogStreaming: Display: Flushing async loaders.
+[2019.02.21-20.33.33:154][  0]LogStaticMesh: Building static mesh SM_FloorTile...
+[2019.02.21-20.33.33:155][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_FloorTile.SM_FloorTile
+[2019.02.21-20.33.33:156][  0]LogStaticMesh: Building static mesh SM_L_Wall...
+[2019.02.21-20.33.33:157][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_L_Wall.SM_L_Wall
+[2019.02.21-20.33.33:158][  0]LogStaticMesh: Building static mesh SM_Straight_Wall...
+[2019.02.21-20.33.33:158][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_Straight_Wall.SM_Straight_Wall
+[2019.02.21-20.33.33:217][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Hub) is flushing async loading
+[2019.02.21-20.33.33:386][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Key_Maze) is flushing async loading
+[2019.02.21-20.33.33:471][  0]LogStaticMesh: Building static mesh SM_T_Wall...
+[2019.02.21-20.33.33:472][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_T_Wall.SM_T_Wall
+[2019.02.21-20.33.33:501][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.21-20.33.33:503][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.21-20.33.33:504][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar8.CharacterMesh0'
+[2019.02.21-20.33.33:505][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.21-20.33.33:535][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.21-20.33.33:537][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.21-20.33.33:538][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.21-20.33.33:543][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Big_Room) is flushing async loading
+[2019.02.21-20.33.33:748][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_GF) is flushing async loading
+[2019.02.21-20.33.33:768][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_1F) is flushing async loading
+[2019.02.21-20.33.33:779][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_2F) is flushing async loading
+[2019.02.21-20.33.33:791][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_3F) is flushing async loading
+[2019.02.21-20.33.33:800][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Corridors) is flushing async loading
+[2019.02.21-20.33.33:818][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.21-20.33.33:858][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.21-20.33.34:023][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164.191ms to complete.
+[2019.02.21-20.33.34:023][  0]LogFileHelpers: Loading map 'Level_Persistant' took 5.119
+[2019.02.21-20.33.34:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-20.33.34:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-20.33.34:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-20.33.34:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-20.33.34:392][  0]LogCollectionManager: Loaded 0 collections in 0.002642 seconds
+[2019.02.21-20.33.34:488][  0]LogFileCache: Scanning file cache for directory 'A:/3D Enigines/Meltdown/Saved/Collections/' took 0.01s
+[2019.02.21-20.33.34:488][  0]LogFileCache: Scanning file cache for directory 'A:/3D Enigines/Meltdown/Content/Developers/MattDenny/Collections/' took 0.01s
+[2019.02.21-20.33.34:489][  0]LogFileCache: Scanning file cache for directory 'A:/3D Enigines/Meltdown/Content/Collections/' took 0.01s
+[2019.02.21-20.33.34:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.21-20.33.34:503][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2019.02.21-20.33.34:569][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.02.21-20.33.35:216][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.21-20.33.35:239][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.02.21-20.33.35:499][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.02.21-20.33.35:584][  0]LogSlate: Took 0.011426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.21-20.33.35:595][  0]LogSlate: Took 0.006121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.21-20.33.35:613][  0]LogSlate: Took 0.013897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.21-20.33.35:760][  0]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.02.21-20.33.35:760][  0]LogRenderer: Reallocating scene render targets to support 1912x824 Format 10 NumSamples 1 (Frame:1).
+[2019.02.21-20.33.36:055][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.21-20.33.36:055][  0]LogLoad: (Engine Initialization) Total time: 23.32 seconds
+[2019.02.21-20.33.36:055][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.21-20.33.36:166][  0]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.02.21-20.33.36:166][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2019.02.21-20.33.36:262][  1]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.02.21-20.33.36:362][  2]LogAssetRegistry: Asset discovery search completed in 17.3621 seconds
+[2019.02.21-20.33.36:373][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.21-20.33.36:373][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2019.02.21-20.33.37:179][ 48]LogSlate: Took 0.012922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.21-20.33.37:510][ 62]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.02.21-20.33.37:663][ 71]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.02.21-20.33.40:879][285]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.02.21-20.33.40:902][286]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.02.21-20.33.41:098][300]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.02.21-20.33.42:485][395]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.21-20.33.43:493][464]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.21-20.33.43:728][480]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.02.21-20.33.44:598][542]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.02.21-20.33.46:287][660]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.02.21-20.33.46:417][669]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.21-20.33.47:232][728]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.21-20.33.47:504][747]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.21-20.33.48:635][828]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.21-20.33.49:829][913]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.21-20.33.50:231][942]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.21-20.38.00:142][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-20.38.00:479][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_TorchActor.BP_TorchActor
+[2019.02.21-20.38.00:919][919]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.02.21-20.38.01:999][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayObjects/Interactables/BP_NPCChar.BP_NPCChar
+[2019.02.21-20.38.02:274][919]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_GameOverUI.WBP_GameOverUI
+[2019.02.21-20.38.02:659][919]LogSlate: Took 0.013847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.21-20.38.11:844][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.21-20.41.15:356][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.05.16:760][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.05.18:673][205]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.21-21.06.00:213][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.06.00:280][100]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI6EF0360F40ABECF5E3D68B82043670AA.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.06.05:808][634]LogSlate: Took 0.039753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.21-21.06.46:342][  7]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.06.46:453][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.06.46:485][  7]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIF4D1A1014A6DA3758A5E4AA9E878371B.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.06.46:761][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.06.46:791][ 34]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI02B8BE584DE41CAAF35765845A3A7B3F.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.07.17:698][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.07.17:738][673]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIA9FDC5894CE9182F37909C8A4431257C.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.07.28:813][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.07.28:845][889]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI214DA6234FD6A3AF65DDE0BCD4C37AB4.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.07.31:011][135]LogSlate: Took 0.014146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.02.21-21.08.15:975][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.08.16:006][471]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI546BBF5A41F4B50DE6F74DA53D3D3DA6.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.08.29:304][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.08.29:335][926]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI2C2379674F32DCA639CFF59EE240BD62.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.08.36:638][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.21-21.08.36:686][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-21.08.36:698][792]PIE: New page: PIE session: Level_Persistant (21 Feb 2019 21:08:36)
+[2019.02.21-21.08.36:698][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Persistant
+[2019.02.21-21.08.36:705][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006686s)
+[2019.02.21-21.08.36:706][792]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-21.08.36:706][792]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2019.02.21-21.08.36:706][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Persistant.Level_Persistant to /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant (0.007597s)
+[2019.02.21-21.08.36:731][792]LogStreaming: Warning: Failed to read file '../../../../../3D Enigines/Meltdown/Saved/SaveGames/GameSave.sav' error.
+[2019.02.21-21.08.36:756][792]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-21.08.36:801][792]LogInit: FAudioDevice initialized.
+[2019.02.21-21.08.36:841][792]LogLoad: Game class is 'BP_PersistantGM_C'
+[2019.02.21-21.08.36:842][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant up for play (max tick rate 0) at 2019.02.21-21.08.36
+[2019.02.21-21.08.36:842][792]LogWorld: Bringing up level for play took: 0.001176
+[2019.02.21-21.08.36:858][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.02.21-21.08.36:887][792]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Corridors 1 1 0
+[2019.02.21-21.08.36:888][792]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-21.08.36:915][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Persistant 0.628
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:678][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:679][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.08.47:680][ 61]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:584][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:584][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:584][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:585][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.01:586][721]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:051][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.16:052][456]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.09.35:535][787]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/UEDPIE_0_Level_Key_Maze took (less than) 20.46 ms
+[2019.02.21-21.09.52:683][836]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/PlayerControllers/BP_PlayerController.BP_PlayerController_C:ExecuteUbergraph_BP_PlayerController'!
+[2019.02.21-21.09.52:683][836]LogBlueprintUserMessages: [BP_PlayerController_C_0] 
+[2019.02.21-21.10.03:579][143]LogBlueprintUserMessages: [BP_Door5] I need the key
+[2019.02.21-21.10.03:579][143]LogBlueprintUserMessages: [BP_PlayerController_C_0] BP_Door5
+[2019.02.21-21.11.00:928][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.11.00:962][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-21.11.00:991][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.11.01:034][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.21-21.15.04:005][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.15.09:336][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.15.09:369][103]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI13724D664D527F14370E46AA3DE27F8E.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.15.44:090][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.21-21.15.44:130][220]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_NPCChar5DEE34744F132BAC17066DAF2C6A4A09.tmp' to '../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.21-21.19.13:233][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.21-21.19.13:264][ 12]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_NPCCharF29DB2DC497C01FDB5FB9E8D153695A8.tmp' to '../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.21-21.26.25:387][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.26.25:418][391]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIBAD84BB742456AF291D7CA8005248CA3.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.27.00:960][885]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.027
+[2019.02.21-21.27.00:962][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_TorchActor] ([1] browsable assets)...
+[2019.02.21-21.27.01:021][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_TorchActor.BP_TorchActor]
+[2019.02.21-21.27.01:021][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TorchActor]
+[2019.02.21-21.27.01:021][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Character/BP_TorchActor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.02.21-21.27.01:078][885]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActor_Auto13496E2B941F8A114374BD99A5DC105DD.tmp' to '../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Character/BP_TorchActor_Auto1.uasset'
+[2019.02.21-21.27.01:080][885]LogFileHelpers: Auto-saving content packages took 0.119
+[2019.02.21-21.31.15:304][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.21-21.31.15:335][310]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_NPCChar108BEA6C4BFEE1451178008DB100F070.tmp' to '../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.21-21.32.13:482][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.21-21.32.13:512][299]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_NPCCharA47F5DA4458C9811A5D5C897B184CEFD.tmp' to '../../../../../3D Enigines/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.21-21.33.25:292][257]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.33.25:374][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.33.25:406][257]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI50710D254C883F76AF9B7794C25CF74E.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.33.25:902][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.33.25:933][311]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI23C3988C4EC4FD39DD3D3296B632F385.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.38.38:378][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.38.38:414][809]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI2D48EE1D42E7285985C64C8D291B53D2.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.41.25:019][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.026
+[2019.02.21-21.41.25:021][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_GameOverUI] ([1] browsable assets)...
+[2019.02.21-21.41.25:021][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_GameOverUI]
+[2019.02.21-21.41.25:021][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/UI/WBP_GameOverUI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.21-21.41.25:052][ 15]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI_Auto298E5C9DD4A0C200B4DBE56B43D5D2865.tmp' to '../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/UI/WBP_GameOverUI_Auto2.uasset'
+[2019.02.21-21.41.25:089][ 15]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.02.21-21.42.28:028][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.42.28:059][779]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIA1FA93264BF052041826DFBC60419FB9.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.45.46:046][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.45.46:078][992]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIA1A1ED634EECBE71EF351488D632CFA1.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.46.27:113][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.46.27:145][167]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIE323555C4F43753F9AC95E8CE96FACBD.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.47.25:581][942]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.47.25:682][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.47.25:714][942]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIAEA44C6742D898C9B03675AA41C5366C.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.47.26:106][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.47.26:138][983]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI3D15C79F45AE0EDF4B06C5A8B543E522.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.51.01:687][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.51.06:048][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset" SILENT=true
+[2019.02.21-21.51.06:116][311]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActor7DC4058B4B17988A141D58A162A72D12.tmp' to '../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset'
+[2019.02.21-21.52.26:915][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset" SILENT=true
+[2019.02.21-21.52.26:963][286]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActorB92D7C1C4B5914DC7623B082441C55CB.tmp' to '../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset'
+[2019.02.21-21.53.42:443][188]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.53.42:527][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.53.42:564][188]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI400F586E42D1622DEE48AEA65EC8947F.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.53.42:866][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.53.42:900][218]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIF2FEBF4E4ADD480BEF53319143560892.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.53.49:974][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.53.50:009][ 46]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI037CB406424FB65743A279984AA88FDC.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.54.23:013][589]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.54.23:099][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.54.23:135][589]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI95E4E08B40A3F9C3285802BA6299A6F3.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.54.23:469][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.54.23:506][621]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI83D68BE840D4F3D203349C81226B8FF7.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.54.25:017][790]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.21-21.54.25:056][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-21.54.25:056][790]PIE: New page: PIE session: Level_Persistant (21 Feb 2019 21:54:25)
+[2019.02.21-21.54.25:057][790]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Persistant
+[2019.02.21-21.54.25:062][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005574s)
+[2019.02.21-21.54.25:064][790]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-21.54.25:064][790]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2019.02.21-21.54.25:064][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Persistant.Level_Persistant to /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant (0.007132s)
+[2019.02.21-21.54.25:111][790]LogStreaming: Warning: Failed to read file '../../../../../3D Enigines/Meltdown/Saved/SaveGames/GameSave.sav' error.
+[2019.02.21-21.54.25:137][790]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-21.54.25:181][790]LogInit: FAudioDevice initialized.
+[2019.02.21-21.54.25:236][790]LogLoad: Game class is 'BP_PersistantGM_C'
+[2019.02.21-21.54.25:238][790]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant up for play (max tick rate 0) at 2019.02.21-21.54.25
+[2019.02.21-21.54.25:238][790]LogWorld: Bringing up level for play took: 0.001191
+[2019.02.21-21.54.25:252][790]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Corridors 1 1 0
+[2019.02.21-21.54.25:252][790]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-21.54.25:256][790]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Persistant 0.968
+[2019.02.21-21.54.29:131][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:132][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.29:133][240]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.54.30:953][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.54.30:990][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-21.54.31:019][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.54.31:056][459]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.21-21.54.31:910][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.54.59:627][870]BlueprintLog: New page: Compile BP_TorchActor
+[2019.02.21-21.55.00:080][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.21-21.55.00:082][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.21-21.55.00:133][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.21-21.55.00:139][870]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.21-21.55.00:186][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset" SILENT=true
+[2019.02.21-21.55.00:238][870]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActor5BBAEC8C4D676BFB21A085A26E914F0D.tmp' to '../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset'
+[2019.02.21-21.55.00:585][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset" SILENT=true
+[2019.02.21-21.55.00:640][905]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActor7758F6EF4CE7DF2D56B86CA4873A86D0.tmp' to '../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset'
+[2019.02.21-21.55.01:672][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.21-21.55.01:693][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-21.55.01:693][ 14]PIE: New page: PIE session: Level_Persistant (21 Feb 2019 21:55:01)
+[2019.02.21-21.55.01:693][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Persistant
+[2019.02.21-21.55.01:700][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005763s)
+[2019.02.21-21.55.01:700][ 14]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-21.55.01:700][ 14]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.02.21-21.55.01:700][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Persistant.Level_Persistant to /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant (0.006512s)
+[2019.02.21-21.55.01:726][ 14]LogStreaming: Warning: Failed to read file '../../../../../3D Enigines/Meltdown/Saved/SaveGames/GameSave.sav' error.
+[2019.02.21-21.55.01:751][ 14]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-21.55.01:795][ 14]LogInit: FAudioDevice initialized.
+[2019.02.21-21.55.01:829][ 14]LogLoad: Game class is 'BP_PersistantGM_C'
+[2019.02.21-21.55.01:831][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant up for play (max tick rate 0) at 2019.02.21-21.55.01
+[2019.02.21-21.55.01:831][ 14]LogWorld: Bringing up level for play took: 0.001421
+[2019.02.21-21.55.01:844][ 14]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Corridors 1 1 0
+[2019.02.21-21.55.01:844][ 14]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-21.55.01:847][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Persistant -0.441
+[2019.02.21-21.55.05:461][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:461][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:462][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.05:463][438]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.09:523][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.55.09:633][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.55.09:665][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-21.55.09:691][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.55.09:742][937]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.21-21.55.20:950][239]BlueprintLog: New page: Compile BP_TorchActor
+[2019.02.21-21.55.21:139][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.21-21.55.21:140][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.21-21.55.21:143][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.21-21.55.21:144][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.21-21.55.21:146][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.21-21.55.21:161][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.21-21.55.21:165][239]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.21-21.55.21:205][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_TorchActor" FILE="../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset" SILENT=true
+[2019.02.21-21.55.21:258][239]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_TorchActor1B875DE74F0F036ADC8EB3B2764EEEFA.tmp' to '../../../../../3D Enigines/Meltdown/Content/Character/BP_TorchActor.uasset'
+[2019.02.21-21.55.22:774][417]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.21-21.55.22:795][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-21.55.22:795][417]PIE: New page: PIE session: Level_Persistant (21 Feb 2019 21:55:22)
+[2019.02.21-21.55.22:796][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Persistant
+[2019.02.21-21.55.22:800][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004376s)
+[2019.02.21-21.55.22:801][417]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-21.55.22:801][417]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.02.21-21.55.22:801][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Persistant.Level_Persistant to /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant (0.005127s)
+[2019.02.21-21.55.22:830][417]LogStreaming: Warning: Failed to read file '../../../../../3D Enigines/Meltdown/Saved/SaveGames/GameSave.sav' error.
+[2019.02.21-21.55.22:855][417]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-21.55.22:901][417]LogInit: FAudioDevice initialized.
+[2019.02.21-21.55.22:934][417]LogLoad: Game class is 'BP_PersistantGM_C'
+[2019.02.21-21.55.22:935][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant up for play (max tick rate 0) at 2019.02.21-21.55.22
+[2019.02.21-21.55.22:935][417]LogWorld: Bringing up level for play took: 0.000930
+[2019.02.21-21.55.22:948][417]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Corridors 1 1 0
+[2019.02.21-21.55.22:948][417]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-21.55.22:952][417]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Persistant 0.663
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:135][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.27:136][916]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-21.55.48:774][503]LogBlueprintUserMessages: [BP_PersistantGM_C_0] game over
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Hub 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Key_Maze 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Big_Room 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Maintainence_Shaft_GF 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Maintainence_Shaft_1F 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Maintainence_Shaft_2F 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Maintainence_Shaft_3F 0 0 0
+[2019.02.21-21.55.58:341][650]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-21.55.58:342][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-21.55.59:486][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.55.59:517][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-21.55.59:542][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-21.55.59:590][787]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.21-21.56.19:337][126]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.56.19:421][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.56.19:458][126]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI8E62561644DBE0CB64EAADA73269055F.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.56.19:805][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.56.19:843][161]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI18ADB542417D8BD231E832991A1F7430.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.56.38:742][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Managers/BP_SpawnManager.BP_SpawnManager
+[2019.02.21-21.56.54:834][122]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.21-21.56.54:838][122]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.21-21.56.57:614][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_SpawnManager" FILE="../../../../../3D Enigines/Meltdown/Content/Managers/BP_SpawnManager.uasset" SILENT=true
+[2019.02.21-21.56.57:670][451]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_SpawnManager497D185A4C553B84B073D1AD0E36733D.tmp' to '../../../../../3D Enigines/Meltdown/Content/Managers/BP_SpawnManager.uasset'
+[2019.02.21-21.57.13:792][375]BlueprintLog: New page: Compile BP_SpawnManager
+[2019.02.21-21.57.14:111][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Managers/BP_SpawnManager" FILE="../../../../../3D Enigines/Meltdown/Content/Managers/BP_SpawnManager.uasset" SILENT=true
+[2019.02.21-21.57.14:144][375]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_SpawnManager35687F9F4D6924F8ACA613A4C8AA935D.tmp' to '../../../../../3D Enigines/Meltdown/Content/Managers/BP_SpawnManager.uasset'
+[2019.02.21-21.57.25:202][686]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerControllers/BP_PlayerController.BP_PlayerController
+[2019.02.21-21.57.29:423][145]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.21-21.57.29:426][145]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.21-21.58.04:148][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.58.04:184][281]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI892311B3463B77EFDCEE50AFF65BA12E.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.58.29:797][301]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-21.58.29:886][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.58.29:923][301]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI823B1D2C49540E31BC5FCB9EAC654C0F.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.58.30:268][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.58.30:307][335]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI74C0C83747F93A424ACC14960338CDDE.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-21.58.43:669][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.21-21.59.27:423][555]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.02.21-21.59.52:336][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-21.59.52:374][507]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIF7305B87429DC33688FFFCABFF813930.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.00.06:314][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-22.00.06:350][169]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUIC241151B44D59D2E23E84C9BE275F53E.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.00.07:419][290]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.21-22.00.07:445][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-22.00.07:445][290]PIE: New page: PIE session: Level_Persistant (21 Feb 2019 22:00:07)
+[2019.02.21-22.00.07:446][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Persistant
+[2019.02.21-22.00.07:450][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004566s)
+[2019.02.21-22.00.07:451][290]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.21-22.00.07:451][290]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.02.21-22.00.07:451][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Persistant.Level_Persistant to /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant (0.005445s)
+[2019.02.21-22.00.07:480][290]LogStreaming: Warning: Failed to read file '../../../../../3D Enigines/Meltdown/Saved/SaveGames/GameSave.sav' error.
+[2019.02.21-22.00.07:505][290]LogInit: XAudio2 using 'Headphones (Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.21-22.00.07:548][290]LogInit: FAudioDevice initialized.
+[2019.02.21-22.00.07:576][290]LogLoad: Game class is 'BP_PersistantGM_C'
+[2019.02.21-22.00.07:577][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Persistant.Level_Persistant up for play (max tick rate 0) at 2019.02.21-22.00.07
+[2019.02.21-22.00.07:577][290]LogWorld: Bringing up level for play took: 0.000915
+[2019.02.21-22.00.07:590][290]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Corridors 1 1 0
+[2019.02.21-22.00.07:590][290]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_Level_Menu 1 1 0
+[2019.02.21-22.00.07:593][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Persistant -0.695
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:049][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:050][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.12:051][818]LogBlueprintUserMessages: [BP_PersistantGM_C_0] COUNT DOWN STARTED
+[2019.02.21-22.00.19:682][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-22.00.19:720][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-22.00.19:747][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-22.00.19:801][733]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.21-22.00.23:352][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-22.00.51:176][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Key_Maze" FILE="../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Maps/Level_Key_Maze_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.21-22.00.51:435][771]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/Level_Key_Maze_Auto3721713094F49DC61498DAF9DDB8854FA.tmp' to '../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Maps/Level_Key_Maze_Auto3.umap'
+[2019.02.21-22.00.51:437][771]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.291
+[2019.02.21-22.00.51:437][771]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.291
+[2019.02.21-22.00.51:439][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/BP_PlayerCharacter] ([1] browsable assets)...
+[2019.02.21-22.00.51:449][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character/BP_PlayerCharacter.BP_PlayerCharacter]
+[2019.02.21-22.00.51:449][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_PlayerCharacter]
+[2019.02.21-22.00.51:449][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_PlayerCharacter" FILE="../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Character/BP_PlayerCharacter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.21-22.00.51:504][771]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_PlayerCharacter_Auto3D2E93BFE4EC152C5C38C3895C58FF570.tmp' to '../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/Character/BP_PlayerCharacter_Auto3.uasset'
+[2019.02.21-22.00.51:505][771]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.02.21-22.10.51:919][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.029
+[2019.02.21-22.10.51:921][400]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_GameOverUI] ([1] browsable assets)...
+[2019.02.21-22.10.51:921][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_GameOverUI]
+[2019.02.21-22.10.51:921][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/UI/WBP_GameOverUI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.02.21-22.10.52:015][400]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI_Auto4F58F121544FB1BD5DB232F902103E985.tmp' to '../../../../../3D Enigines/Meltdown/Saved/Autosaves/Game/UI/WBP_GameOverUI_Auto4.uasset'
+[2019.02.21-22.10.52:016][400]LogFileHelpers: Auto-saving content packages took 0.097
+[2019.02.21-22.13.36:890][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-22.13.36:929][925]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI448C7735453CDA20F85CE6BB42E2695E.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.13.37:856][ 34]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-22.13.38:338][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-22.13.38:378][ 75]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI31A555A841340DC384EA7CB39F0D638F.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.13.46:962][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerControllers/BP_PlayerController" FILE="../../../../../3D Enigines/Meltdown/Content/PlayerControllers/BP_PlayerController.uasset" SILENT=true
+[2019.02.21-22.13.47:013][ 83]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/BP_PlayerController9CF5DB48446E7A6C2DEEA4A23FFB0410.tmp' to '../../../../../3D Enigines/Meltdown/Content/PlayerControllers/BP_PlayerController.uasset'
+[2019.02.21-22.15.01:582][918]BlueprintLog: New page: Compile WBP_GameOverUI
+[2019.02.21-22.15.01:676][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-22.15.01:717][918]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI1A93B70246476591252CE2B854B7BA5C.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.15.01:978][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_GameOverUI" FILE="../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset" SILENT=true
+[2019.02.21-22.15.02:017][943]LogSavePackage: Moving '../../../../../3D Enigines/Meltdown/Saved/WBP_GameOverUI6FBA8BAC4066D9E2E4780D8823DDF06A.tmp' to '../../../../../3D Enigines/Meltdown/Content/UI/WBP_GameOverUI.uasset'
+[2019.02.21-22.15.07:394][577]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayObjects/BP_RoomManager.BP_RoomManager
+[2019.02.21-22.15.10:014][831]LogSlate: Window 'BP_RoomManager' being destroyed
+[2019.02.21-22.15.17:584][710]LogUObjectBase: Warning: Object is not registered
+[2019.02.21-22.15.19:206][710]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.622 s
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: 
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: Stack: 
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: [Callstack] 0x00007ff88f8571f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.21-22.15.19:206][710]LogOutputDevice: Error: [Callstack] 0x00007ff88f590c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff88f5ab356 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff889cd11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff889ce060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff88914da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff88850ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8884cf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8950a8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8952ee933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff89510281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8950d8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8950cb073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8b542d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8b5420270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8b542f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8b541c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8ee026d41 USER32.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8ee026713 USER32.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8b5430646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff60ac554e5 UE4Editor.exe!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff60ac65b3c UE4Editor.exe!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff60ac65bba UE4Editor.exe!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff60ac73dac UE4Editor.exe!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff60ac75aaa UE4Editor.exe!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8efbe3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: [Callstack] 0x00007ff8f0af3691 ntdll.dll!UnknownFunction []
+[2019.02.21-22.15.19:207][710]LogOutputDevice: Error: 
+[2019.02.21-22.15.19:220][710]LogStats:                SubmitErrorReport -  0.009 s
