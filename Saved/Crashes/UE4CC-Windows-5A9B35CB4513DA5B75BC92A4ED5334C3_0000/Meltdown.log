@@ -1,0 +1,823 @@
+﻿Log file open, 02/25/19 12:45:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meltdown
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.102309
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.305s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.25-12.45.18:213][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-12.45.18:252][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.25-12.45.18:307][  0]LogHAL: Display: Platform has ~ 16 GB [17115361280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.25-12.45.18:307][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.25-12.45.18:307][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.25-12.45.18:362][  0]LogInit: Computer: DESKTOP-A7ANU47
+[2019.02.25-12.45.18:362][  0]LogInit: User: matt
+[2019.02.25-12.45.18:362][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.02.25-12.45.18:362][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2019.02.25-12.45.18:362][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.25-12.45.18:369][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.25-12.45.18:369][  0]LogMemory: Process Physical Memory: 100.69 MB used, 100.69 MB peak
+[2019.02.25-12.45.18:369][  0]LogMemory: Process Virtual Memory: 93.53 MB used, 93.53 MB peak
+[2019.02.25-12.45.18:369][  0]LogMemory: Physical Memory: 13463.45 MB used,  2859.03 MB free, 16322.48 MB total
+[2019.02.25-12.45.18:369][  0]LogMemory: Virtual Memory: 4646.79 MB used,  2859.03 MB free, 134217728.00 MB total
+[2019.02.25-12.45.19:320][  0]LogInit: Using OS detected language (en-GB).
+[2019.02.25-12.45.19:320][  0]LogInit: Using OS detected locale (en-GB).
+[2019.02.25-12.45.19:385][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.02.25-12.45.23:049][  0]LogStreaming: Display: Took  3.729s to InitEngineTextLocalization.
+[2019.02.25-12.45.23:049][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.25-12.45.24:180][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.25-12.45.24:180][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.25-12.45.30:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-12.45.30:393][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.25-12.45.30:495][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.02.25-12.45.30:495][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.25-12.45.30:510][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.25-12.45.30:510][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.25-12.45.30:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.25-12.45.30:544][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.25-12.45.30:544][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.25-12.45.30:575][  0]LogWindows: EnumDisplayDevices:
+[2019.02.25-12.45.30:575][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.02.25-12.45.30:575][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.02.25-12.45.30:576][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.25-12.45.30:576][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.25-12.45.30:576][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.25-12.45.30:576][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.02.25-12.45.30:576][  0]LogD3D11RHI:   Driver Version: 418.91 (internal:25.21.14.1891, unified:418.91)
+[2019.02.25-12.45.30:576][  0]LogD3D11RHI:      Driver Date: 2-6-2019
+[2019.02.25-12.45.30:576][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.25-12.45.30:627][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.25-12.45.31:061][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2019.02.25-12.45.31:228][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (C:/Users/matt_/Documents/GitHub/Meltdown/Intermediate/Shaders/WorkingDirectory/13636/).
+[2019.02.25-12.45.31:229][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matt_/AppData/Local/Temp/UnrealShaderWorkingDir/AB33A39B4F86779E5288E9A8222E5FDA/'.
+[2019.02.25-12.45.32:920][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.25-12.45.32:959][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.25-12.45.32:996][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.25-12.45.33:050][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.25-12.45.33:180][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.25-12.45.33:305][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.25-12.45.33:359][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.25-12.45.33:385][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.25-12.45.33:413][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-12.45.33:669][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.25-12.45.34:021][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-12.45.34:021][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-12.45.34:057][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-12.45.34:057][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-12.45.34:195][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.25-12.45.34:238][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.25-12.45.34:302][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.25-12.45.34:367][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.25-12.45.34:409][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.25-12.45.34:409][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.25-12.45.36:349][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.25-12.45.36:349][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.25-12.45.36:349][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.25-12.45.42:432][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: Loaded boot cache 0.37s 73MB C:/Users/matt_/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matt_/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/matt_/Documents/GitHub/Meltdown/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/matt_/Documents/GitHub/Meltdown/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.25-12.45.42:804][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.25-12.45.42:845][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.25-12.45.42:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matt_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.25-12.45.42:859][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.25-12.45.42:859][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.25-12.45.42:873][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.25-12.45.42:910][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.25-12.45.42:942][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.25-12.45.44:559][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2019.02.25-12.45.48:961][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-12.45.49:667][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.25-12.45.49:737][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.25-12.45.49:738][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.25-12.45.49:740][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.25-12.45.49:740][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.25-12.45.49:879][  0]LogNetVersion: Meltdown 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3933618509)
+[2019.02.25-12.45.51:777][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.122221 seconds
+[2019.02.25-12.45.51:784][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.25-12.45.51:784][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.02.25-12.45.51:784][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.25-12.46.18:427][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.25-12.46.18:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.25-12.46.20:989][  0]SourceControl: Source control is disabled
+[2019.02.25-12.46.20:989][  0]SourceControl: Source control is disabled
+[2019.02.25-12.46.21:076][  0]SourceControl: Source control is disabled
+[2019.02.25-12.46.21:108][  0]SourceControl: Source control is disabled
+[2019.02.25-12.46.23:778][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.25-12.46.24:268][  0]LogOcInput: OculusInput pre-init called
+[2019.02.25-12.46.24:764][  0]LogEngine: Initializing Engine...
+[2019.02.25-12.46.24:765][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-12.46.24:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-12.46.24:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-12.46.24:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-12.46.24:865][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.032 s
+[2019.02.25-12.46.25:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.25-12.46.26:242][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.25-12.46.26:337][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-12.46.26:378][  0]LogInit: FAudioDevice initialized.
+[2019.02.25-12.46.26:378][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.25-12.46.26:454][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/matt_/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.25-12.46.26:459][  0]LogInit: Texture streaming: Enabled
+[2019.02.25-12.46.26:523][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.25-12.46.26:569][  0]LogInit: Transaction tracking system initialized
+[2019.02.25-12.46.26:708][  0]BlueprintLog: New page: Editor Load
+[2019.02.25-12.46.28:550][  0]LocalizationService: Localization service is disabled
+[2019.02.25-12.46.34:060][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/' took 0.02s
+[2019.02.25-12.46.34:060][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.25-12.46.34:060][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.25-12.46.34:060][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.25-12.46.34:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-12.46.34:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-12.46.34:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-12.46.34:060][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.25-12.46.37:844][  0]SourceControl: Source control is disabled
+[2019.02.25-12.46.37:844][  0]Cmd: MAP LOAD FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Maps/Level_Persistant.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-12.46.37:844][  0]LightingResults: New page: Lighting Build
+[2019.02.25-12.46.37:954][  0]MapCheck: New page: Map Check
+[2019.02.25-12.46.37:954][  0]LightingResults: New page: Lighting Build
+[2019.02.25-12.46.39:740][  0]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2019.02.25-12.46.39:801][  0]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.25-12.46.39:802][  0]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.25-12.46.39:802][  0]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.25-12.46.39:802][  0]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.02.25-12.46.39:968][  0]LogStaticMesh: Building static mesh SM_Straight_Wall...
+[2019.02.25-12.46.39:969][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_Straight_Wall.SM_Straight_Wall
+[2019.02.25-12.46.40:525][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.02.25-12.46.40:525][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.02.25-12.46.40:525][  0]LogAIModule: Creating AISystem for world Level_Persistant
+[2019.02.25-12.46.40:856][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Menu) is flushing async loading
+[2019.02.25-12.46.40:856][  0]LogStreaming: Display: Flushing async loaders.
+[2019.02.25-12.46.40:900][  0]LogStaticMesh: Building static mesh SM_FloorTile...
+[2019.02.25-12.46.40:900][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_FloorTile.SM_FloorTile
+[2019.02.25-12.46.40:968][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Hub) is flushing async loading
+[2019.02.25-12.46.40:993][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Key_Maze) is flushing async loading
+[2019.02.25-12.46.41:035][  0]LogStaticMesh: Building static mesh SM_L_Wall...
+[2019.02.25-12.46.41:035][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_L_Wall.SM_L_Wall
+[2019.02.25-12.46.41:038][  0]LogStaticMesh: Building static mesh SM_T_Wall...
+[2019.02.25-12.46.41:039][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Static_Meshes/Walls/SM_T_Wall.SM_T_Wall
+[2019.02.25-12.46.41:143][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-12.46.41:252][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-12.46.41:253][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-12.46.41:288][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-12.46.41:289][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-12.46.41:290][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Big_Room) is flushing async loading
+[2019.02.25-12.46.41:322][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_GF) is flushing async loading
+[2019.02.25-12.46.41:330][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_1F) is flushing async loading
+[2019.02.25-12.46.41:336][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_2F) is flushing async loading
+[2019.02.25-12.46.41:343][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Maintainence_Shaft_3F) is flushing async loading
+[2019.02.25-12.46.41:352][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Level_Corridors) is flushing async loading
+[2019.02.25-12.46.41:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.25-12.46.41:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-12.46.41:618][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.667ms to complete.
+[2019.02.25-12.46.41:618][  0]LogFileHelpers: Loading map 'Level_Persistant' took 3.775
+[2019.02.25-12.46.45:846][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.02.25-12.46.45:846][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Meltdown
+[2019.02.25-12.46.45:846][  0]LogTemp: CWD: D:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.02.25-12.46.45:846][  0]LogTemp: Initial Dir: D:\Unreal\UE_4.20
+[2019.02.25-12.46.45:846][  0]LogTemp: Env CWD: D:\Unreal\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.02.25-12.46.45:846][  0]LogTemp: BranchPath = DESKTOP-A7ANU47/D/Unreal/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-A7ANU47/D/Unreal/UE_4.20/Engine/Binaries
+[2019.02.25-12.46.45:846][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\matt_\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.25-12.46.45:847][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.25-12.46.46:304][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.25-12.46.46:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-12.46.46:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-12.46.46:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-12.46.46:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-12.46.46:543][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.25-12.46.46:543][  0]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.25-12.46.46:543][  0]LogCollectionManager: Loaded 0 collections in 0.000790 seconds
+[2019.02.25-12.46.46:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Collections/' took 0.01s
+[2019.02.25-12.46.46:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Developers/matt/Collections/' took 0.00s
+[2019.02.25-12.46.46:708][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Collections/' took 0.01s
+[2019.02.25-12.46.46:708][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.25-12.46.46:722][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2574 classes and 606 folders.
+[2019.02.25-12.46.46:812][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-12.46.50:376][  0]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.25-12.46.50:376][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-12.46.50:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.25-12.46.50:755][  0]LogSlate: Took 0.028926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.25-12.46.50:805][  0]LogSlate: Took 0.048406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.25-12.46.50:872][  0]LogSlate: Took 0.032027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.25-12.46.51:236][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.02.25-12.46.51:811][  0]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.25-12.46.51:811][  0]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.25-12.46.51:811][  0]LogSlate: Took 0.048122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-12.46.51:919][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-12.46.51:919][  0]LogLoad: (Engine Initialization) Total time: 141.11 seconds
+[2019.02.25-12.46.51:919][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.25-12.46.52:028][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.25-12.46.52:335][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-12.46.52:373][  1]LogAssetRegistry: Asset discovery search completed in 67.8368 seconds
+[2019.02.25-12.46.52:538][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.25-12.46.52:538][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.02.25-12.47.56:169][632]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-12.47.56:175][632]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_MiniMap.WBP_MiniMap
+[2019.02.25-12.47.56:631][632]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.02.25-12.47.57:326][632]LogSlate: Took 0.015803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.25-12.47.59:609][827]LogSlate: Window 'WBP_MiniMap*' being destroyed
+[2019.02.25-12.48.03:685][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/MiniMap'
+[2019.02.25-12.48.03:686][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/MiniMap'
+[2019.02.25-12.48.03:687][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/Interfaces/MessageInterface'
+[2019.02.25-12.48.03:687][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/Interfaces/MessageInterface'
+[2019.02.25-12.48.03:687][292]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/DungeonCrawlerContent/Blueprints/Interfaces/MessageInterface.MessageInterface_C"',MemberName="SendMessage",MemberGuid=F3D291854A4DFE6D61CF698D667D923B)'
+[2019.02.25-12.48.03:687][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/Data/Enums/MessageType'
+[2019.02.25-12.48.03:687][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/Data/Enums/MessageType'
+[2019.02.25-12.48.03:688][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/PlayerIcon'
+[2019.02.25-12.48.03:688][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/PlayerIcon'
+[2019.02.25-12.48.03:700][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/EnemyIcon'
+[2019.02.25-12.48.03:700][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/EnemyIcon'
+[2019.02.25-12.48.03:704][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/CompanionIcon'
+[2019.02.25-12.48.03:704][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/CompanionIcon'
+[2019.02.25-12.48.03:708][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/TreasureIcon'
+[2019.02.25-12.48.03:708][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/TreasureIcon'
+[2019.02.25-12.48.03:712][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/CheckPointIcon'
+[2019.02.25-12.48.03:712][292]LogLinker: Can't find file '/Game/DungeonCrawlerContent/Blueprints/UI/Widgets/CheckPointIcon'
+[2019.02.25-12.48.03:918][293]LogSlate: Took 0.017616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.25-12.48.08:308][813]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-12.48.08:381][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.48.08:381][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.48.08:381][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.48.08:381][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.48.08:382][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.48.08:382][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Message node  Invalid Message Node  has an invalid interface.
+[2019.02.25-12.48.08:383][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:383][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:383][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:383][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:383][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:383][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Set Icon Render Transforms . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:384][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Callibration" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Callibration
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "AnchorPoint" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get AnchorPoint
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "Icons" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get Icons
+[2019.02.25-12.48.08:385][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:385][813]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Input pin  Message  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2019.02.25-12.48.08:385][813]LogBlueprint: Error: [Compiler WBP_MiniMap] Could not find a function named "SendMessage" in 'WBP_MiniMap'.
+Make sure 'WBP_MiniMap' has been compiled for  Invalid Message Node
+[2019.02.25-12.48.08:385][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "AnchorPoint" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Set AnchorPoint
+[2019.02.25-12.48.08:387][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Anchor Point  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:387][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:387][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:387][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Anchor Point  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Callibration  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:388][813]LogBlueprint: Error: [Compiler WBP_MiniMap] The property associated with  Icons  could not be found in '/Game/UI/WBP_MiniMap.WBP_MiniMap_C'
+[2019.02.25-12.48.08:553][813]LogBlueprint: Warning: [Compiler WBP_MiniMap] [0217.75] Compile of WBP_MiniMap failed. 33 Fatal Issue(s) 22 Warning(s) [in 245 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-12.48.08:875][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-12.48.09:037][836]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap4EBD985643E4C78B474286B29F501911.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-12.49.38:136][765]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-12.49.38:179][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.49.38:179][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.49.38:179][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.49.38:179][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Message node  Invalid Message Node  has an invalid interface.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:180][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Set Icon Render Transforms . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:181][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Could not find a variable named "MiniMapContent" in 'WBP_MiniMap_C'.
+Make sure 'WBP_MiniMap_C' has been compiled for  Get MiniMapContent
+[2019.02.25-12.49.38:182][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:182][765]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.49.38:182][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] Input pin  Message  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2019.02.25-12.49.38:182][765]LogBlueprint: Error: [Compiler WBP_MiniMap] Could not find a function named "SendMessage" in 'WBP_MiniMap'.
+Make sure 'WBP_MiniMap' has been compiled for  Invalid Message Node
+[2019.02.25-12.49.38:240][765]LogBlueprint: Warning: [Compiler WBP_MiniMap] [0307.44] Compile of WBP_MiniMap failed. 22 Fatal Issue(s) 6 Warning(s) [in 104 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-12.49.38:671][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-12.49.38:747][804]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMapCAD181E141ACC11343C3AB89608A224D.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-12.50.35:911][ 43]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-12.50.35:952][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.50.35:952][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.50.35:952][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.50.35:952][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Message node  Invalid Message Node  has an invalid interface.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:953][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Set Icon Render Transforms . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Update Icons . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Warning: [Compiler WBP_MiniMap] Input pin  Message  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2019.02.25-12.50.35:954][ 43]LogBlueprint: Error: [Compiler WBP_MiniMap] Could not find a function named "SendMessage" in 'WBP_MiniMap'.
+Make sure 'WBP_MiniMap' has been compiled for  Invalid Message Node
+[2019.02.25-12.50.36:009][ 43]LogBlueprint: Warning: [Compiler WBP_MiniMap] [0365.20] Compile of WBP_MiniMap failed. 22 Fatal Issue(s) 1 Warning(s) [in 98 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-12.50.37:163][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-12.50.37:222][169]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap2CF08BDE44AA935F9BC127B80CEEC120.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-12.56.52:367][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.027
+[2019.02.25-12.56.52:378][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_MiniMap] ([1] browsable assets)...
+[2019.02.25-12.56.52:378][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MiniMap]
+[2019.02.25-12.56.52:378][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.02.25-12.56.52:455][579]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap_Auto159EA947749EB95E4E8D25FA305D73B2C.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto1.uasset'
+[2019.02.25-12.56.52:457][579]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.02.25-13.06.08:140][449]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-13.06.08:183][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.06.08:183][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.06.08:183][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.06.08:183][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Message node  Invalid Message Node  has an invalid interface.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:184][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Warning: [Compiler WBP_MiniMap] Input pin  Message  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2019.02.25-13.06.08:185][449]LogBlueprint: Error: [Compiler WBP_MiniMap] Could not find a function named "SendMessage" in 'WBP_MiniMap'.
+Make sure 'WBP_MiniMap' has been compiled for  Invalid Message Node
+[2019.02.25-13.06.08:238][449]LogBlueprint: Warning: [Compiler WBP_MiniMap] [1297.43] Compile of WBP_MiniMap failed. 17 Fatal Issue(s) 1 Warning(s) [in 97 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-13.06.08:737][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.06.08:799][500]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap6466F9A94DD84FE6D20551862CCC3B57.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.07.27:960][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.022
+[2019.02.25-13.07.27:962][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_MiniMap] ([1] browsable assets)...
+[2019.02.25-13.07.27:962][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MiniMap]
+[2019.02.25-13.07.27:962][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.25-13.07.28:033][ 79]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap_Auto2194F64204A9E5EC4D5AF9987301558E7.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto2.uasset'
+[2019.02.25-13.07.28:038][ 79]LogFileHelpers: Auto-saving content packages took 0.077
+[2019.02.25-13.09.14:033][161]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameModes/BP_PersistantGM.BP_PersistantGM
+[2019.02.25-13.09.42:035][121]BlueprintLog: New page: Compile BP_PersistantGM
+[2019.02.25-13.09.42:422][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.09.42:587][121]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGM38E6FA234F3BC66C3B69F39CBAF6B62D.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.09.42:790][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.09.42:919][140]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGMF427EBDC4DB2694170A452A982E91F90.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.10.40:423][307]LogSlate: Took 0.023742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.25-13.10.44:393][783]BlueprintLog: New page: Compile BP_PersistantGM
+[2019.02.25-13.10.44:719][783]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.44:719][783]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.44:719][783]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.44:719][783]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.44:720][783]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.44:720][783]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.44:720][783]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.44:721][783]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.44:721][783]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.44:808][783]LogBlueprint: Warning: [Compiler WBP_MiniMap] [1574.00] Compile of WBP_MiniMap failed. 9 Fatal Issue(s) 0 Warning(s) [in 374 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-13.10.44:989][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.10.45:122][783]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGM6D5EBC8C4EB3C7A89F5939B59FDBBB74.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.10.55:093][942]BlueprintLog: New page: Compile BP_PersistantGM
+[2019.02.25-13.10.55:385][942]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.55:385][942]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.55:385][942]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.55:385][942]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.55:386][942]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.10.55:386][942]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.55:387][942]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.55:387][942]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.55:387][942]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.10.55:441][942]LogBlueprint: Warning: [Compiler WBP_MiniMap] [1584.64] Compile of WBP_MiniMap failed. 9 Fatal Issue(s) 0 Warning(s) [in 305 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-13.10.55:622][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.10.55:752][942]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGM8197173E451BFE306C73CFA93A60F4AB.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.10.55:949][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.10.56:082][960]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGMD5B3BDCF4432715A32AF428F23D70714.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.11.05:381][ 72]BlueprintLog: New page: Compile BP_PersistantGM
+[2019.02.25-13.11.05:675][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.11.05:806][ 72]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGMCF7229C246E9A79B674E0A87E1597B84.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.11.06:113][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.11.06:244][103]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGM7DA695FC4E2C994F8ECD118A8CB91FDF.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.11.30:075][913]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-13.11.30:121][913]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.11.30:121][913]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.11.30:121][913]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.11.30:121][913]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.11.30:121][913]LogBlueprint: Error: [Compiler WBP_MiniMap] Spawn node  Create Widget  must have a class specified.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  <Unnamed>  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:122][913]LogBlueprint: Error: [Compiler WBP_MiniMap] In use pin  Actor  no longer exists on node  Assign on Destory . Please refresh node or break links to remove pin.
+[2019.02.25-13.11.30:274][913]LogBlueprint: Warning: [Compiler WBP_MiniMap] [1619.47] Compile of WBP_MiniMap failed. 13 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/UI/WBP_MiniMap.WBP_MiniMap)
+[2019.02.25-13.11.30:558][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.11.30:619][937]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMapCD37102B4E24E7A646E35CACCE515352.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.12.38:485][232]BlueprintLog: New page: Compile BP_PersistantGM
+[2019.02.25-13.12.39:048][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameModes/BP_PersistantGM" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset" SILENT=true
+[2019.02.25-13.12.39:204][232]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PersistantGM15A0FE144F46217D64DB6597BF1130F9.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameModes/BP_PersistantGM.uasset'
+[2019.02.25-13.12.39:211][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.12.39:252][232]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMapA77BE4BD426E5C2FEFC258B98D3D5C57.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.12.47:083][157]BlueprintLog: New page: Compile WBP_MiniMap
+[2019.02.25-13.12.47:248][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.12.47:286][157]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap636CD5F64F782CA625A37798E7293CC7.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.12.47:462][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.12.47:498][173]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMapE32F50174C025210605F739F6A300AF8.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.17.46:798][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Persistant" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/Maps/Level_Persistant_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.25-13.17.46:905][552]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Level_Persistant_Auto345919A6E4C943200903486A20512EC55.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/Maps/Level_Persistant_Auto3.umap'
+[2019.02.25-13.17.46:966][552]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Persistant' took 0.222
+[2019.02.25-13.17.46:966][552]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2019.02.25-13.17.46:983][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/WBP_MiniMap] ([1] browsable assets)...
+[2019.02.25-13.17.46:983][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MiniMap]
+[2019.02.25-13.17.46:983][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.25-13.17.47:032][552]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap_Auto33D7952EC4F2C93FA2B00F9B68D9EE54C.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Autosaves/Game/UI/WBP_MiniMap_Auto3.uasset'
+[2019.02.25-13.17.47:034][552]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.02.25-13.24.43:792][915]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Enums/E_MiniMapIcon.E_MiniMapIcon
+[2019.02.25-13.24.58:707][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Enums/E_MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.24.58:710][661]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/E_MiniMapIconED0BCA2340124C2EB861F98B880F6958.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Enums/E_MiniMapIcon.uasset'
+[2019.02.25-13.25.50:880][951]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Interface/MiniMapIcon.MiniMapIcon
+[2019.02.25-13.26.06:598][803]BlueprintLog: New page: Compile MiniMapIcon
+[2019.02.25-13.26.06:673][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.06:677][803]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIcon7089435F4F4C957AA70E9A984BE1F358.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.07:304][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.07:317][876]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIconCA021F594ED60496EDBD418D6CB6D2A5.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.19:753][358]BlueprintLog: New page: Compile MiniMapIcon
+[2019.02.25-13.26.19:792][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.19:799][358]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIcon0C6341584C4A58595292EA859E530810.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.20:092][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.20:100][391]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIcon16983C72455059D50BF826BA5B036654.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.25:378][ 24]BlueprintLog: New page: Compile MiniMapIcon
+[2019.02.25-13.26.25:414][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.25:421][ 24]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIcon751A7F8148E28438C6F59C89BFFB1CD7.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.25:845][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.26.25:853][ 73]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIconE077F17747CC27B2B684A793E3AB82B8.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.26.30:230][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Persistant" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Maps/Level_Persistant.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.25-13.26.30:308][423]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/Level_Persistant2C9A19494303A1C740F82491128CC4C5.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Maps/Level_Persistant.umap'
+[2019.02.25-13.26.30:333][423]LogFileHelpers: Saving map 'Level_Persistant' took 1.468
+[2019.02.25-13.26.30:340][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MiniMap" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset" SILENT=true
+[2019.02.25-13.26.30:378][423]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/WBP_MiniMap8CFEC6014180EECAF911B58E36E30529.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/UI/WBP_MiniMap.uasset'
+[2019.02.25-13.26.36:946][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayObjects/Interactables/BP_NPCChar.BP_NPCChar
+[2019.02.25-13.26.46:477][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.26.46:478][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar8.CharacterMesh0'
+[2019.02.25-13.26.46:479][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.26.47:898][433]BlueprintLog: New page: Compile BP_NPCChar
+[2019.02.25-13.26.47:958][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.26.47:961][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar8.CharacterMesh0'
+[2019.02.25-13.26.47:962][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.26.47:964][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.26.47:965][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.26.47:965][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.25-13.26.47:966][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.26.48:101][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.25-13.26.48:104][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.25-13.26.48:128][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-13.26.48:128][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.25-13.26.48:130][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.26.48:131][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.26.48:131][433]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.26.48:197][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.26.48:248][433]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCCharB6B0B908448ABD02B9CD83ACB574C35B.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.26.49:018][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.26.49:046][521]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar2490BCDC4298306901A779AD34BB8697.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.27.16:230][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.25-13.27.16:232][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-13.27.16:239][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.27.16:244][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.27.16:246][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.27.16:250][728]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.27.19:058][ 59]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.27.19:068][ 59]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar8.CharacterMesh0'
+[2019.02.25-13.27.24:518][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.25-13.27.24:524][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.27.24:526][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.27.26:675][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.27.26:709][954]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar8754847742040BAAD184E8AE3B1962DC.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.27.31:576][520]BlueprintLog: New page: Compile BP_NPCChar
+[2019.02.25-13.27.31:606][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.25-13.27.31:608][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.27.31:609][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.27.31:619][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.27.31:620][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.27.31:749][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.25-13.27.31:775][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.27.31:776][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.27.31:814][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.27.31:849][520]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar5BDDA9734CC2895CB4819FA62E2342B8.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.27.32:087][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.27.32:116][545]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar1DEBA0CD4C053673BB930A86FC093151.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.27.39:775][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/MiniMapIcon" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset" SILENT=true
+[2019.02.25-13.27.39:784][462]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/MiniMapIconDDFA76A94A0AE046EDA784B7D5FF9F1C.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Interface/MiniMapIcon.uasset'
+[2019.02.25-13.27.42:949][837]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplayObjects/Interactables/BP_Key.BP_Key
+[2019.02.25-13.27.50:423][690]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Character/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.02.25-13.27.53:625][ 36]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.25-13.28.13:172][352]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.02.25-13.28.13:357][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.25-13.28.13:358][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.28.13:358][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.28.13:359][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.25-13.28.13:359][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.28.13:362][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.28.13:396][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.28.13:397][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar5.CharacterMesh0'
+[2019.02.25-13.28.13:399][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.28.13:436][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_PlayerCharacter" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset" SILENT=true
+[2019.02.25-13.28.13:488][352]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PlayerCharacter316988424C13DA88DB0AB6868CE99533.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset'
+[2019.02.25-13.28.13:694][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_PlayerCharacter" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset" SILENT=true
+[2019.02.25-13.28.13:721][372]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PlayerCharacterEF869FD440E41289D60C0985B7CAED98.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset'
+[2019.02.25-13.28.25:298][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_PlayerCharacter" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset" SILENT=true
+[2019.02.25-13.28.25:325][759]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_PlayerCharacterFE07A4D54CD133B0D50A83A503969883.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/Character/BP_PlayerCharacter.uasset'
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.30:374][360]LogClass: Warning: In asset 'None', there is an enum property of type 'E_MiniMapIcon' with an invalid value of ''
+[2019.02.25-13.28.32:257][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.25-13.28.32:269][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar8.CharacterMesh0'
+[2019.02.25-13.28.32:271][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.28.32:278][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-13.28.32:281][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.28.32:284][571]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.28.33:365][698]BlueprintLog: New page: Compile BP_NPCChar
+[2019.02.25-13.28.33:396][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-13.28.33:399][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar4.CharacterMesh0'
+[2019.02.25-13.28.33:401][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.28.33:408][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar3_2.CharacterMesh0'
+[2019.02.25-13.28.33:409][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.28.33:410][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.28.33:547][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar11.CharacterMesh0'
+[2019.02.25-13.28.33:548][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar12.CharacterMesh0'
+[2019.02.25-13.28.33:553][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar9.CharacterMesh0'
+[2019.02.25-13.28.33:567][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar10.CharacterMesh0'
+[2019.02.25-13.28.33:573][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar6.CharacterMesh0'
+[2019.02.25-13.28.33:574][698]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/Level_Key_Maze.Level_Key_Maze:PersistentLevel.BP_NPCChar7.CharacterMesh0'
+[2019.02.25-13.28.33:608][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.28.33:642][698]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar4CAA0B13407A00157AF2BB85262D23E1.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.28.33:994][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayObjects/Interactables/BP_NPCChar" FILE="C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset" SILENT=true
+[2019.02.25-13.28.34:023][737]LogSavePackage: Moving 'C:/Users/matt_/Documents/GitHub/Meltdown/Saved/BP_NPCChar66ABCE74400947EE9F257A946BE3335D.tmp' to 'C:/Users/matt_/Documents/GitHub/Meltdown/Content/GameplayObjects/Interactables/BP_NPCChar.uasset'
+[2019.02.25-13.28.35:246][881]LogUObjectArray: Warning: Other object in slot
+[2019.02.25-13.28.37:278][881]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.011 s
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: 
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: Stack: 
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb134871f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb131c0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb131db356 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0e8811db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0e89060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0c7ada7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0b83ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0b7ff337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0fb38204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0fd7e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0fb9281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0fb68190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb0fb5b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb349dd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb349d0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb349df4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb349cc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb573a6d41 USER32.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb573a6713 USER32.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb349e0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ff7da9554e5 UE4Editor.exe!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ff7da965b3c UE4Editor.exe!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ff7da965bba UE4Editor.exe!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ff7da973dac UE4Editor.exe!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ff7da975aaa UE4Editor.exe!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb56a83dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: [Callstack] 0x00007ffb594f3691 ntdll.dll!UnknownFunction []
+[2019.02.25-13.28.37:278][881]LogOutputDevice: Error: 
+[2019.02.25-13.28.37:287][881]LogStats:                SubmitErrorReport -  0.006 s
